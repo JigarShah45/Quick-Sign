@@ -25,7 +25,7 @@
 
 ## 🔗 Visit My Project
 
-🌐 **Live Demo**: [Click Here to Open 🚀]( https://jigarshah45.github.io/typing-game/)
+🌐 **Live Demo**: [Click Here to Open 🚀](https://jigarshah45.github.io/Quick-Sign/)
 
 ---
 
